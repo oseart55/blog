@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/tags/basic-elements/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/post/test/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/css/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/development/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/html/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/post/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+  </url>
+</urlset>
